@@ -1,0 +1,23 @@
+.pic1{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    margin-right: 80px;
+    object-fit: cover;
+   }
+   .pic2{
+    width: 200px;
+    height: 250px;
+    border-radius: none;
+    object-fit: cover;
+    object-position: center;
+    margin-right: 80px;
+   }
+   .pic3{
+    width: 200px;
+    height: 250px;
+    border-radius: 125px;
+    object-fit: cover;
+    object-position: center;
+    margin-right: 80px;
+   }

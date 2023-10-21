@@ -1,0 +1,73 @@
+h4{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.text1{
+width: 150px;
+height: 30px;
+border-radius: 4px;
+margin-bottom: 10px;
+}
+.text2{
+width: 400px;
+height: 30px;
+border-radius: 15px;
+}
+.p1{
+color: gray;
+font-size: 15px;
+margin-bottom: 5px;
+}
+.p2{
+color: gray;
+font-size: 15px;
+margin-bottom: 15px;
+}
+.email{
+width: 300px;
+height: 30px;
+border-radius: 5px;
+margin-bottom: 5px;
+border-color: gray;
+}
+.button1{
+width: 300px;
+height: 40px;
+border-radius: 20px;
+margin-bottom: 10px;
+background-color: rgb(31, 95, 185);
+color: white;
+text-align: center;
+font-weight: bold;
+border:none;
+}
+.pic{
+width: 40px;
+height: 40px;
+object-position: center;
+object-fit: cover;
+border-radius: 20px;
+margin-bottom: 10px;
+vertical-align: middle;
+}
+.text3-twitter{
+border: none;
+width: 200px;
+height: 40px;
+vertical-align: middle;
+}
+.button2{
+width: 60px;
+height: 25px;
+border-radius: 12.5px;
+margin-bottom: 10px;
+background-color: rgb(31, 95, 185);
+color: white;
+text-align: center;
+font-weight: bold;
+border:none;
+}
+a{
+color: white;
+text-decoration: none;
+}

@@ -1,0 +1,110 @@
+.subscribe-button{
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+}
+.subscribe-button:hover{
+    opacity: 0.8;
+}
+.subscribe-button:active{
+    opacity: 0.5
+    ;
+}
+.join-button{
+    background-color: white;
+    color: rgb(37, 125, 218);
+    border-color:rgb(37, 125, 218);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    height: 36px;
+    width: 62px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: background-color .15s,
+    color .15s;
+}
+.join-button:hover{
+    background-color:rgb(37, 125, 218) ;
+    color: white;
+}
+.join-button:active{
+    opacity: 0.7;
+}
+.tweet-button{
+    background-color: rgb(2, 137, 255);
+    color: white;
+    border: none;
+    border-radius: 18px;
+    height: 36px;
+    width: 74px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: box-shadow 0.15s;
+}
+.tweet-button:hover{
+    box-shadow: 5px 5px 10px rgba(0,0,0,00.15);
+}
+.uber-button{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+}
+.amazon-button{
+    background-color: rgb(255,216,20);
+    color: black;
+    height: 30px;
+    width: 140px;
+    border: none;
+    border-radius: 15px;
+    margin-right: 8px;
+
+}
+.GitHub-button{
+    background-color: rgb(46,164,79);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 15px;
+    height: 36px;
+    width: 100px;
+}
+.Bootstrap-button1{
+    background-color: rgb(121,82,179);
+    color: white;
+    border: none;
+    height: 40px;
+    width: 130px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+.Bootstrap-button2{
+    background-color: white;
+    color: rgb(108,117,125);
+    border-color: rgb(108,117,125);
+    height: 45px;
+    width: 130px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 8px;
+}
